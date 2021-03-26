@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/lakk/anaconda3/envs/pySimpleGui/bin/python",
+    "python.formatting.provider": "black"
+}
